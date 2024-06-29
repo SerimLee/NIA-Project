@@ -1,4 +1,12 @@
+![image](https://github.com/SerimLee/NIA-Project/assets/87299084/5bb96eab-a070-4689-a5cb-2e56404fb400)# MPED-RNN Model
 
+### Title
+
+> 스켈레톤 정보를 활용한 공공 보안용 CCTV의 이상행동 학습용 데이터 적합성 검증 연구
+
+### System configuration diagram
+
+![image](https://github.com/SerimLee/NIA-Project/assets/87299084/d1cd3581-a768-403c-a0b0-10b337d16869)
 
 # Environment Setup
 
