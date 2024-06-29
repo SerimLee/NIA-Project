@@ -14,11 +14,11 @@
 
 # Test Environment
 
-> Windows 10 64-bit
-> Python 3.7
-> JSON, XML
-> VSCode
-> Git
+- Windows 10 64-bit
+- Python 3.7
+- JSON, XML
+- VSCode
+- Git
 
 ### Used Data
 
