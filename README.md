@@ -1,4 +1,4 @@
-![image](https://github.com/SerimLee/NIA-Project/assets/87299084/5bb96eab-a070-4689-a5cb-2e56404fb400)# MPED-RNN Model
+# MPED-RNN Model
 
 ### Title
 
