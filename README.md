@@ -6,7 +6,11 @@
 
 ### System configuration diagram
 
-![image](https://github.com/SerimLee/NIA-Project/assets/87299084/d1cd3581-a768-403c-a0b0-10b337d16869)
+> ![image](https://github.com/SerimLee/NIA-Project/assets/87299084/d1cd3581-a768-403c-a0b0-10b337d16869)
+
+### Reference model
+
+> https://github.com/RomeroBarata/skeleton_based_anomaly_detection
 
 # Environment Setup
 
