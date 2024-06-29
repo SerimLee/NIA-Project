@@ -12,6 +12,18 @@
 
 > https://github.com/RomeroBarata/skeleton_based_anomaly_detection
 
+# Test Environment
+
+> Windows 10 64-bit
+> Python 3.7
+> JSON, XML
+> VSCode
+> Git
+
+### Used Data
+
+> AI-Hub and E2ON Abnormal Behavior Dataset
+
 # Environment Setup
 
 First please create an appropriate environment using conda: 
